@@ -1,0 +1,1 @@
+This is an user interface program developed in Java using JavaFx that acts as a simulator for 2 real life problems that require synchronization. The first problem is focused on traffic flow. And the second problem focused on cigarette making.  
